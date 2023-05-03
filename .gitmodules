@@ -1,0 +1,3 @@
+[submodule "muzi"]
+	path = muzi
+	url = https://github.com/MZZD2333/muzi.git
